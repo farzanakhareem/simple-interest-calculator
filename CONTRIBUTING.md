@@ -18,16 +18,24 @@ Commit Your Changes: Commit your changes with a descriptive message:
 git commit -m "Add a new feature or fix a bug"
 Push to Your Fork: Push your changes back to your GitHub fork:
 git push origin my-feature-branch
+
 Open a Pull Request: Go to the original repository and click on "New Pull Request." Compare your branch with the main branch and submit the pull request.
 Code Style
+
 Please make sure your code adheres to our coding standards. Here are a few guidelines:
 Follow naming conventions (e.g., variable and function names should be descriptive).
 Use comments to explain complex logic.
+
 Testing
+
 Provide tests for your code changes, where applicable. Run existing tests to check that your changes do not break the project.
+
 Code of Conduct
+
 By participating in this project, you agree to abide by the Code of Conduct.
+
 Questions?
+
 If you have any questions about contributing, feel free to open an issue or reach out to the maintainers.
 Thank you for helping to improve this project!
 
